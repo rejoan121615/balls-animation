@@ -19,8 +19,8 @@
   width: 100%;
   height: 100vh;
 }
-#wrapper .container #animation .medium__balls {
-  opacity: 0;
+#wrapper .container #animation .a3__balls, #wrapper .container #animation .producer, #wrapper .container #animation .left__half__hole__circle, #wrapper .container #animation .killer__hole, #wrapper .container #animation .dolna {
+  display: none;
 }
 
 /*# sourceMappingURL=style.css.map */
